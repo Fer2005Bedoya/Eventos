@@ -1,0 +1,17 @@
+.documento{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+}
+
+.ciudad{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.musica{
+    display: flex;
+    justify-content: center;
+}
